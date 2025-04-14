@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "769437903070",
+    "project_id": "notify-a1cc9",
+    "storage_bucket": "notify-a1cc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769437903070:android:f8c871d43805a4258bfa4f",
+        "android_client_info": {
+          "package_name": "com.fahil.notify2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsdCrsiVXP4YZ65fiAQi0Rh4yWogponmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769437903070:android:578ef4b94adae9d18bfa4f",
+        "android_client_info": {
+          "package_name": "com.ibems.ibems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsdCrsiVXP4YZ65fiAQi0Rh4yWogponmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769437903070:android:c591f405c389a2498bfa4f",
+        "android_client_info": {
+          "package_name": "com.mimo1.ibems2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsdCrsiVXP4YZ65fiAQi0Rh4yWogponmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

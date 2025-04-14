@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "IBEMS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/earthquake.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/earthquake.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4A71C7",
+      "size": "cover"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/earthquake.png",
+        "backgroundColor": "#4A71C7"
+      },
+      "package": "com.ibems.ibems",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/earthquake.png",
+          "color": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fbf7144c-1104-4afd-bea3-c7d1cb307c47"
+      }
+    }
+  }
+}
